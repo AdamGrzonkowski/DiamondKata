@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiamondKata.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "C"
+    }
+  }
+}
